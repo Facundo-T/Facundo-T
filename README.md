@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Facundo-T
-- 👀 I’m interested in IT.
-- 🌱 I’m currently learning Full Stack MERN
+- 👋 Hi, I’m @Facundo.
+- Full stack MERN
+- QA Tester
+- Full Time IT Support
+- 🌱 I’m currently learning Full Stack JAVA
 
 <!---
 Facundo-T/Facundo-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
